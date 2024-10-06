@@ -1,4 +1,5 @@
-let a = Number(prompt("Enter Number1: "));
-let b = Number(prompt("Enter Number2: "));
+let a=prompt("enter your name: ");
+let age= Number(prompt("enter your age: "));
 
-console.log("Sum is: " + (a + b));
+console.log("Name: " +a);
+console.log("Age: " +age)
